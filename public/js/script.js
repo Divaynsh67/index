@@ -1,0 +1,1 @@
+console.log("%cYour Welcome inside the console","font-size:34px; color:cyan;")

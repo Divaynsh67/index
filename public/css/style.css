@@ -1,0 +1,13 @@
+*{
+    font-family: sans-serif;
+    color: #1d223d;
+    text-align: center;
+}
+body{
+    background-color: rgb(206, 203, 209);
+}
+.title{
+   color: rgb(48, 33, 104);
+   font-weight: 800;
+   font-size: 5rem;
+}
