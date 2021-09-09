@@ -1,7 +1,7 @@
 {
-  "name": "express-makeover",
+  "name": "index",
   "version": "1.0.0",
-  "description": "This is a boiler template for express app",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "dev": "nodemon server.js",
